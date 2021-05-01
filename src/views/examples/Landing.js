@@ -464,6 +464,7 @@ class Landing extends React.Component {
               </Row>
             </Container>
           </section> */}
+
           {/* <section className="section pb-0 bg-gradient-warning">
             <Container>
               <Row className="row-grid align-items-center">
