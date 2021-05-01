@@ -6358,7 +6358,8 @@ button.bg-darker:focus {
 
 .pr-4,
 .px-4 {
-  padding-right: 1.5rem !important; }
+  padding-right: 1.5rem !important; 
+}
 
 .pb-4,
 .py-4 {
@@ -6366,7 +6367,7 @@ button.bg-darker:focus {
 
 .pl-4,
 .px-4 {
-  padding-left: 1.5rem !important; }
+  padding-left: 1.5rem !important; background-color: red}
 
 .p-5 {
   padding: 3rem !important; }
