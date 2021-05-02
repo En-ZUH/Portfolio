@@ -93,20 +93,21 @@ class Profile extends React.Component {
                         <Button
                           className="mr-4"
                           color="info"
-                          href="#pablo"
-                          onClick={e => e.preventDefault()}
+                          href="https://www.linkedin.com/in/enas-bataineh/"
+                          // onClick={e => e.preventDefault()}
                           size="sm"
                         >
                           Connect
                         </Button>
                         <Button
+
                           className="float-right"
                           color="default"
-                          href="#pablo"
-                          onClick={e => e.preventDefault()}
+                          href="https://github.com/En-ZUH"
+                          // onClick={e => e.preventDefault()}
                           size="sm"
                         >
-                          Message
+                          Follow
                         </Button>
                       </div>
                     </Col>
